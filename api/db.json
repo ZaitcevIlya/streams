@@ -3,11 +3,6 @@
     {
       "title": "My stream",
       "description": "chilling with friends",
-      "id": 1
-    },
-    {
-      "title": "My stream",
-      "description": "chilling with friends",
       "id": 2
     },
     {
@@ -33,6 +28,18 @@
       "description": "With coll dexc",
       "userId": "116789104857878751484",
       "id": 6
+    },
+    {
+      "title": "New1",
+      "description": "new1",
+      "userId": "116789104857878751484",
+      "id": 7
+    },
+    {
+      "title": "sfsdf",
+      "description": "sdfs",
+      "userId": "116789104857878751484",
+      "id": 8
     }
   ]
 }
