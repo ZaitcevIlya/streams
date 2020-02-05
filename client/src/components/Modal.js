@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import history from '../history';
 
 const ModalWrapper = props => {
   return (
     <div
-      onClick={() => history.push('/')}
+      onClick={props.onDismiss}
       className='ui dimmer modals visible active'
     >
       <div
