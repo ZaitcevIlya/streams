@@ -3,18 +3,18 @@
     {
       "title": "My stream",
       "description": "chilling with friends",
-      "id": 2
+      "id": 1
     },
     {
       "title": "Intiguan Streams",
       "description": "My coolest stream channel!",
       "userId": "116789104857878751484",
-      "id": 3
+      "id": 2
     },
     {
       "title": "last one",
       "description": "da1",
-      "id": 9
+      "id": 3
     }
   ]
 }
